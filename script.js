@@ -166,7 +166,7 @@ window.onload = function(){
           playerHealth -= 10;
         if(playerHealth == 0){
           alert("Your dead. Your score: "+score);
-          window.location.href = 'Start.html';
+          window.location.href = 'index.html';
          }
         }
       }

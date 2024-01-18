@@ -6,7 +6,12 @@ body {
     padding-top: 100px;
     padding-left: 650px;
 }
-
+.text{
+  color: white;
+  font-size: 15px;
+  text-wrap: wrap;
+  width: 150px;
+}
 .container {
     width: 1vw;
     display: grid;
@@ -25,7 +30,6 @@ body {
 
 /* Desgin and Animation for start button https://uiverse.io/Fatima-Zahrae-Acharki/witty-dolphin-100 */
 .startButton{
-    margin-top: 100px;
     height: 100px;
     width: 200px;
     font-size: 16px;
